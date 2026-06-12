@@ -1,0 +1,4 @@
+.git/
+*.tgz
+*.log
+node_modules/
